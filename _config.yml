@@ -3,7 +3,7 @@ repository: https://github.com/epartnersnz/epartnersnz.github.io.git
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: ePartners Blog for Documentation
+topnav_title: ePartners Documentation
 # this appears on the top navigation bar next to the home button
 
 site_title: ePartners Blog
@@ -35,7 +35,7 @@ exclude:
 
 feedback_subject_line: Jekyll documentation theme
 
-feedback_email: tomjoht@gmail.com
+feedback_email: support@epartners.co.nz
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
